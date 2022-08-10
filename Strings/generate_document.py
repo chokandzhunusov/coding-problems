@@ -1,6 +1,6 @@
 """
-Time complexity: O(n)
-Space complexity: O(n)
+Time complexity: O(n + m)
+Space complexity: O(k) num of unique chars
 """
 
 
