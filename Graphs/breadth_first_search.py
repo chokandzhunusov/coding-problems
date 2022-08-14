@@ -1,6 +1,6 @@
 """
-Time complexity: O()
-Space complexity: O()
+Time complexity: O(v+e)
+Space complexity: O(v)
 """
 
 
